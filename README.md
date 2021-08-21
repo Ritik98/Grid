@@ -6,7 +6,7 @@ Learn topics of grid by implementing it with the help of web boss tutorial
 
 Topics are 
 
-##Grid fundamentals
+Grid fundamentals
 Dev tools
 Implicit vs Explicit Grid
 Grid auto flow
